@@ -37,7 +37,6 @@ function Tuiter() {
                     <Routes>
                         <Route
                             path="/home"
-
                             element={<HomeComponent/>}/>
                         <Route
                             path="/explore"
