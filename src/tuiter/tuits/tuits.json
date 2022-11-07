@@ -1,0 +1,44 @@
+[
+  {
+    "_id": 123,
+    "topic": "Space",
+    "userName": "SpaceX",
+    "title": "Tesla very cool wow so cool, Space X? also cool! wow!",
+    "time": "6h",
+    "image": "tesla.png",
+    "liked": true,
+    "replies": 666,
+    "retuits": 666,
+    "likes": 6666,
+    "handle": "@spacex",
+    "tuit": "Some blerb about tesla cyber truck... assignment said it's ok to make custom tuits"
+  },
+  {
+    "_id": 234,
+    "topic": "Space",
+    "userName": "SpaceX",
+    "title": "Space X so cool Elon Musk WOW so wow. Much wow.",
+    "time": "6h",
+    "image": "spacex.png",
+    "liked": false,
+    "replies": 66,
+    "retuits": 66,
+    "likes": 666,
+    "handle": "@spacex",
+    "tuit": "SpaceX at least have 666 dollars as an organization, research shows. "
+  },
+  {
+    "_id": 345,
+    "topic": "Energy",
+    "userName": "Tesla",
+    "title": "Now Energy is cool, but TESLA? HOOOOOOO boy. TESLAAAAAAAAAAAAA",
+    "time": "6d",
+    "image": "tesla.png",
+    "liked": false,
+    "replies": 6666,
+    "retuits": 6,
+    "likes": 6,
+    "handle": "@tesla",
+    "tuit": "lorem ipsum... SIKE TELSA COOL ENERGY COOL WOOOOOOOOOOOOOOOOOOOO YESSIR"
+  }
+]
