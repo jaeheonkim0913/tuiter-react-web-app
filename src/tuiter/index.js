@@ -20,8 +20,8 @@ function Tuiter() {
                 <div className="col-2 col-md-2 col-lg-1 col-xl-2">
                     <Routes>
                         <Route
-                            // path="/home"
-                            index
+                            path="/home"
+
                             element={<NavigationSidebar active="home"/>}/>
                         <Route
                             path="/explore"
@@ -36,8 +36,8 @@ function Tuiter() {
                 >
                     <Routes>
                         <Route
-                            // path="/home"
-                            index
+                            path="/home"
+
                             element={<HomeComponent/>}/>
                         <Route
                             path="/explore"
