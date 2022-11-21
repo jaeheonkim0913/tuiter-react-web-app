@@ -2,7 +2,7 @@ import React from "react";
 import { useDispatch } from "react-redux";
 import { updateTuitThunk } from "../../../services/tuits-thunks";
 
-const TuitStats = ({
+const TuitsStats = ({
                        tuit = {
                            _id: 123,
                            topic: "Space",
@@ -83,4 +83,4 @@ const TuitStats = ({
     );
 };
 
-export default TuitStats;
+export default TuitsStats;

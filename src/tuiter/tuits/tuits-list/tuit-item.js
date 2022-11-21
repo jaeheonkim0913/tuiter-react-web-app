@@ -3,7 +3,7 @@ import "bootstrap/dist/css/bootstrap.min.css";
 import "bootstrap-icons/font/bootstrap-icons.css";
 import { deleteTuitThunk } from "../../../services/tuits-thunks";
 import { useDispatch } from "react-redux";
-import TuitStats from "./tuit-stats";
+import TuitStats from "./tuits-stats";
 
 const TuitItem = ({
                       tuit = {
